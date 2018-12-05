@@ -9,6 +9,7 @@
 #title {
     background: yellow;
     /*add CSS here*/
+    margin-bottom: 30px; 
     
 }
 
@@ -17,11 +18,23 @@
     color: white;
     /*add CSS here*/
     
+    margin-top: 100 px;
+    
+
+    
 }
 
 .topic {
     background: lightgray;
     /*add CSS here*/
+   margin-top:30px;
+   margin-right: 20px;
+    
     
 }
+  
+    
+     
+    
+
 
